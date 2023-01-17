@@ -1,6 +1,8 @@
 This repository will contains the files and the pdf used to present a portoflio optimization project I did during my masters final semester.
 
-Discussion of the Python notebook is below. 
+## To see the R project, please click the pdf file above for analysis and the .Rmd file for the code.
+
+## Discussion of the Python notebook is below. 
 To see the code please click on the ipynb file above.
 
 Methodology
