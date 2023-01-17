@@ -1,7 +1,7 @@
 This repository will contains the files and the pdf used to present a portoflio optimization project I did during my masters final semester.
 
 Discussion of the Python notebook is below. 
-To see the code please click on the ipynd file above.
+To see the code please click on the ipynb file above.
 
 Methodology
 The economy can be divided into the some major sectors and with the economic activities
